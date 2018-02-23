@@ -4,7 +4,7 @@ import sqlite3
 
 temperature_topic = "temperature"
 humidity_topic = "humidity"
-dbFile = "esp8266.db"
+dbFile = "data.db"
 
 dataTuple = [-1,-1]
 
